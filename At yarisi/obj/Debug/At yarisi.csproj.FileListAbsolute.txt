@@ -1,0 +1,10 @@
+C:\Users\Coder\source\repos\At yarisi\At yarisi\bin\Debug\At yarisi.exe.config
+C:\Users\Coder\source\repos\At yarisi\At yarisi\bin\Debug\At yarisi.exe
+C:\Users\Coder\source\repos\At yarisi\At yarisi\bin\Debug\At yarisi.pdb
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At yarisi.csprojAssemblyReference.cache
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At_yarisi.Form1.resources
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At_yarisi.Properties.Resources.resources
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At yarisi.csproj.GenerateResource.cache
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At yarisi.csproj.CoreCompileInputs.cache
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At yarisi.exe
+C:\Users\Coder\source\repos\At yarisi\At yarisi\obj\Debug\At yarisi.pdb
